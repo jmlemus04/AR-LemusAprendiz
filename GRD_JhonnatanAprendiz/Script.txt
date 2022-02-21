@@ -1,0 +1,2 @@
+El ejercicio solicita que ingrese dos lineas de texto
+para solucionar el punto 5 del taller 2
